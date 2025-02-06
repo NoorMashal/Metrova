@@ -1,0 +1,68 @@
+/* Reset styles specific to the header */
+.header {
+    margin-bottom: 30px;
+}
+
+/* Manager-specific styles */
+.manager-menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.manager-menu .menu-item {
+    background-color: lightblue;
+    padding: 1rem;
+}
+
+.manager-menu .menu-link {
+    text-decoration: none;
+    color: black;
+}
+
+/* Representative-specific styles */
+.representative-menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.representative-menu .menu-item {
+    background-color: lightblue;
+    padding: 1rem;
+}
+
+.representative-menu .menu-link {
+    text-decoration: none;
+    color: black;
+}
+
+.logout-form {
+    margin: 0;
+    padding: 0;
+}
+
+.logout-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    cursor: pointer;
+}
+
+/* Customer-specific styles */
+.customer-menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+.customer-menu .menu-item {
+    background-color: lightblue;
+    padding: 1rem;
+}
+
+.customer-menu .menu-link {
+    text-decoration: none;
+    color: black;
+}

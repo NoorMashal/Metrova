@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.customer-card {
+	display: flex;
+	padding: 4px;
+	border: solid blue 2px;
+	width: 80%;
+}
+
+.customer-lookup{
+	padding: 10px;
+	display: flex;
+	flex-Direction: column;
+	width: 100%;
+	justify-content: center;
+	align-items: center;
+}
+
+.customer-detail{
+	display: flex;
+	flex-Direction: column;
+	width: 100%;
+}
+
+.btns{
+	display: flex;
+	flex-Direction: column;
+	justify-content: flex-end;
+	right: 0;
+	
+}
