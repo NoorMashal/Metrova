@@ -23,7 +23,26 @@
 - **Backend:** Node.js, Express.js  
 - **Database:** PostgreSQL  
 - **Authentication:** JWT  
-- **Hosting:** Vercel / Heroku  
+- **Hosting:** Vercel / Heroku
+
+
+## 🔑 Preset Logins (SQL)  
+
+### 👨‍💼 Admin  
+- **Username:** `manager`  
+- **Password:** `manager123`  
+
+### 🛠 Customer Representative  
+- **Username:** `noorRep`  
+- **Password:** `repPassword123`  
+
+### 👤 Customer Accounts  
+- **Customer 1**  
+  - **Username:** `noor123`  
+  - **Password:** `noor2020`  
+- **Customer 2**  
+  - **Username:** `customer2`  
+  - **Password:** `noor`  
 
 ## 🚀 Getting Started  
 
