@@ -18,7 +18,7 @@
 - ⏳ **Modify Train Schedules** – Adjust train timings and optimize schedules.  
 - 📊 **Oversee System Operations** – Ensure smooth transit management.  
 
-## 🛠 Technologies Used  
+## 🖥️ Technologies Used  
 - **Frontend:** JSP, HTML, CSS  
 - **Backend:** Java (Servlets, JSP) 
 - **Database:** MySQL  
