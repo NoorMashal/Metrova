@@ -18,12 +18,11 @@
 - ⏳ **Modify Train Schedules** – Adjust train timings and optimize schedules.  
 - 📊 **Oversee System Operations** – Ensure smooth transit management.  
 
-## 🖥 Tech Stack  
-- **Frontend:** React, Tailwind CSS  
-- **Backend:** Node.js, Express.js  
-- **Database:** PostgreSQL  
-- **Authentication:** JWT  
-- **Hosting:** Vercel / Heroku
+## 🛠 Technologies Used  
+- **Frontend:** JSP, HTML, CSS  
+- **Backend:** Java (Servlets, JSP) 
+- **Database:** MySQL  
+- **Server:** Apache Tomcat
 
 
 ## 🔑 Preset Logins (SQL)  
