@@ -16,7 +16,9 @@
 ### 🔧 For Admins  
 - 🚆 **Add & Manage Train Lines** – Update transit routes and add new lines.  
 - ⏳ **Modify Train Schedules** – Adjust train timings and optimize schedules.  
-- 📊 **Oversee System Operations** – Ensure smooth transit management.  
+- 📊 **Oversee System Operations** – Ensure smooth transit management.
+
+  ![](https://i.imgur.com/1KuuaLn.png)
 
 ## 🖥️ Technologies Used  
 - **Frontend:** JSP, HTML, CSS  
